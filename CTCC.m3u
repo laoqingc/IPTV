@@ -133,12 +133,3 @@ rtp://239.49.8.180:6000
 rtp://239.49.8.181:6000
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场
 rtp://239.49.8.182:6000
-
-#EXTINF:-1,4k修复频道  
-http://ott.js.chinamobile.com/PLTV/3/224/3221228141/index.m3u8
-#EXTINF:-1,电影台1   
-http://ott.js.chinamobile.com/PLTV/3/224/3221227512/index.m3u8
-#EXTINF:-1,电影台2   
-http://ott.js.chinamobile.com/PLTV/3/224/3221227579/index.m3u8
-#EXTINF:-1,CCTV16  
-http://ott.js.chinamobile.com/PLTV/3/224/3221228144/index.m3u8
