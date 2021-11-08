@@ -165,7 +165,7 @@ http://111.13.42.45/PLTV/88888888/224/3221226232/1.m3u8
 http://111.13.42.12/PLTV/88888888/224/3221226332/1.m3u8
 #EXTINF:-1,NewTV明星大片
 http://223.110.251.206:6610/cntv/live1/n-mingxingdp/n-mingxingdp
-#EXTINF:-1,电影（国内）
+#EXTINF:-1,未知
 http://ott.js.chinamobile.com/PLTV/3/224/3221227512/index.m3u8
-#EXTINF:-1,电影（海外）
+#EXTINF:-1,未知
 http://ott.js.chinamobile.com/PLTV/3/224/3221227579/index.m3u8
