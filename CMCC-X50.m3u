@@ -71,8 +71,6 @@ http://223.110.241.206:6610/gitv/live1/G_HENAN-CQ/G_HENAN-CQ/1.m3u8
 http://223.110.241.206:6610/cntv/live1/HD-8000k-1080P-chongqingstv/HD-8000k-1080P-chongqingstv
 #EXTINF:-1,东南卫视
 http://223.110.241.206:6610/cntv/live1/n-dongnanstv/n-dongnanstv
-#EXTINF:-1,宁夏卫视
-http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8? 
 #EXTINF:-1,第一院线
 http://223.110.241.206:6610/gitv/live1/GITV-JS-2/GITV-JS-2
 #EXTINF:-1,影视剧场
